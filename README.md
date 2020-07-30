@@ -90,7 +90,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 
 <p align="center">
-      [![Hit Count](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)]
+      [![HitCount](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356)
 </p>
 
 ## Get in touch :coffee:
