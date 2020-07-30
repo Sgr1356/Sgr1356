@@ -88,7 +88,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 
 
-[![HitCount](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356)
+[![Hit Count](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)]
 
 ## Get in touch :coffee:
 
