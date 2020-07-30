@@ -32,6 +32,14 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-yadav-22713a156/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/venom.shades/?hl=en)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sagaryadav161997@gmail.com)
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+
+
+[![HitCount](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)](https://githubcom/Sgr1356)
+
 
 &nbsp;
 
@@ -82,13 +90,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 </p>
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-
-
-[![HitCount](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356)
 
 
 ## Get in touch :coffee:
