@@ -82,7 +82,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 </p>
-
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
+  </a>
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
+</p>
 
 ## Get in touch :coffee:
 
