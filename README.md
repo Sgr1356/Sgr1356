@@ -94,6 +94,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 [![Profile Views](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)](https://github.com/Sgr1356)
 
+Credit to [onimur](https://github.com/onimur)
+
 <!--
 Here are some ideas to get you started:
 
