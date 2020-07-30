@@ -87,7 +87,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
+  <a href="http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
   </a>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
