@@ -88,7 +88,12 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 
 
-[![Hit Count](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)]
+
+<p align="center">
+  <a href="https://github.com/Sgr1356" target="_blank">
+      [![Hit Count](http://hits.dwyl.com/Sgr1356/https://githubcom/Sgr1356.svg)]
+  </a>
+</p>
 
 ## Get in touch :coffee:
 
