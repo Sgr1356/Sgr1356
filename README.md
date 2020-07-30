@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/Sgr1356/Sgr1356/blob/master/ban.png" alt="Hello world">
 
 
 ## About me
