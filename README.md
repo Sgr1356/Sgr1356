@@ -45,7 +45,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [Personal Learning Project](https://github.com/Sgr1356);
 - 🌱 I’m currently learning ReactJS and NodeJS; 
-- 👯 I’m looking to Contribuue to Open source project;
+- 👯 I’m looking to Contribute to Open source project;
 - 🤔 I’m looking for help with DS and Algo 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Computer science engineering;
