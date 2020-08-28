@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm Sagar Yadav. An software Developer and  DS/ML Enthusiast  
+I'm Sagar Yadav a software Developer and  DS/ML Enthusiast  
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
